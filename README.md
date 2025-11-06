@@ -1,26 +1,3 @@
-[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-esp/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-esp/blob/main/README-ENGLISH.md) | [🖥️ Mejor hosting n8n](https://djar.co/hostingn8n)
-
-[📲 Noticias Diarias de Inteligencia Artificial gratis en tu WhatsApp](https://djar.co/iawz)
-
-
-# 🧠 Colección de Flujos de Trabajo de n8n
-
-Este repositorio es un **fork** de la iniciativa original de [@Zie619](https://github.com/Zie619/n8n-workflows), quien recopiló flujos de trabajo (workflows) de n8n procedentes de diversas fuentes, tales como:
-
-- El sitio oficial de [n8n.io](https://n8n.io/) y su foro comunitario.  
-- Ejemplos compartidos públicamente en GitHub, blogs y otros sitios web.
-
-El propósito de este repositorio es ofrecer un recurso consolidado para inspirarte, facilitar tu aprendizaje y permitir la reutilización de workflows en tus propios proyectos de n8n.
-
-
-## 📂 Mejoras Implementadas
-
-- **Buscador de Workflows de N8N**: Hemos implementado [este buscador 🔎 de workflows](https://www.dragonjar.org/apps/IQwMu3KtpyCFEj56WBzov) para que puedas explorar de manera rápida y sencilla todos los workflows disponibles en el repositorio, facilitando su identificación y acceso.
-- **Descripciones en español**: Cada archivo `.json` fue analizado y se le asignó una descripción clara en español, basada en las acciones que realiza.  
-- **Eliminación de duplicados**: Se verificó y validó el hash único de cada archivo para detectar y eliminar workflows duplicados, garantizando que cada flujo de trabajo sea único en contenido.  
-- **Renombrado de archivos**: Se actualizaron los nombres de los archivos para que describan con mayor precisión su funcionalidad principal, facilitando su búsqueda y selección.
-
-
 ## 🛠 Instrucciones de Uso
 
 Para importar cualquier flujo de trabajo en tu instancia de n8n, sigue estos pasos:
@@ -41,18 +18,6 @@ El servidor MCP de este repositorio, para que puedas interactuar con esta gran b
 
 [Aquí encontrarás las instrucciones para usarlo en Cursor, Claude Desktop, Windsurf, VSCode, Cline o Highlight AI](https://gitmcp.io/DragonJAR/n8n-workflows-esp).
 
-## 🤝 Contribución
-
-Si descubriste un workflow interesante o desarrollaste uno propio, ¡anímate a contribuir a esta colección! Solo ten en cuenta:
-
-- **Nombre descriptivo**: Elige un nombre de archivo que refleje claramente la función principal del workflow.  
-- **Mención de la fuente**: Si el flujo de trabajo proviene de otra fuente, incluye un comentario breve al inicio del archivo indicando su origen.
-
-Para proponer contribuciones, abre un pull request con tu nuevo workflow o mejora.
-
-## ⏯️ Manel aporta esta excelente explicación en video sobre el repositorio.
-
-[![Agradecimiento a Manelautomatic](https://i.imgur.com/fq4Ef0N.png)](https://www.youtube.com/watch?v=9haKti-edOE "Gracias a Manelautomatic por explicar en video el repositorio")
 
 ## ⚠️ Aviso
 
